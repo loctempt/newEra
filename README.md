@@ -4,7 +4,7 @@
 
 ## 🎈最佳实践
 
-`notes.md` 为笔记文件，向其中添加内容后保存，执行以下命令，提交至本地git仓库
+[`notes.md`](https://github.com/loctempt/newEra/blob/main/notes.md) 为笔记文件，向其中添加内容后保存，执行以下命令，提交至本地git仓库
 
 ```shell
 git add .
