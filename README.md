@@ -19,6 +19,32 @@ git commit -m 'commitment description'
 git push
 ```
 
+
+
+### :bulb: New to git?
+
+##### 安装git
+
+Windows：[下载安装包](https://git-scm.com/download/win)
+
+Linux: `sudo apt install git`
+
+Mac: 安装Xcode *或者* 利用[Homebrew](https://brew.sh/)`brew install git`
+
+##### 注册GitHub账号
+
+点击当前页面右上角的`Sign up`，注册账号
+
+##### clone本仓库
+
+切换到合适的目录，执行以下命令：
+
+```shell
+git clone git@github.com:loctempt/newEra.git
+```
+
+#### :congratulations: YOU ARE READY TO GO! :congratulations:
+
 ## 📖参考资料
 
 markdown编辑器 - [typora](https://typora.io/)
